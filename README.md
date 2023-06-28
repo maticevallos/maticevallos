@@ -2,7 +2,7 @@
 
 - 👋 Hola, mi nombre es Matias Julian Cevallos Moran
 - 👀 Mi interes principal es reforzar mi mindset agil para adaptarme al futuro.
-- 🌱 Estudiante de Programación Web (ARG)
+- 🌱 Estudiante de Ingenieria en Sistemas en la UTN y Programacion Web Full Stack en Digital House
 - 📫 Me pueden contactar en matiascevallos7@gmail.com
 
 ## 🌐 Socials:
